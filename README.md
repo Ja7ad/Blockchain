@@ -1,2 +1,2 @@
 # Blockchain
-Blockchain Implementation, PoSt and PoRep Algorithm based 
+Blockchain Implementation, PoW Algorithm based 
